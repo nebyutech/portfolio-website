@@ -1,0 +1,16 @@
+# Ignore system directories and files
+AppData/
+.VirtualBox/
+.atom/
+.bash_history
+.bi-sockets/
+
+# Ignore other common files
+node_modules/
+*.log
+*.tmp
+*.bak
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
